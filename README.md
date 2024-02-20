@@ -6,7 +6,7 @@
 <div></div><br>
 SETUP
 
-First install the Zapf Chancery font, then open the "Nightshade Forest" folder and run "angband.exe". The game options are preset for convenience, but can be changed in the Options menu. For gameplay instructions, see the Help menu.
+After extracting the "Nightshade Forest v1.0" zip file (and installing the Zapf Chancery font if desired), just open the "Nightshade Forest" folder and run "angband.exe". The game options are preset for convenience, but can be changed in the Options menu. For gameplay instructions, see the Help menu.
 
 
 <div></div><br>
@@ -41,9 +41,8 @@ SCREENSHOTS
 <img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/17768472-ff91-47c5-b27c-bde01f475550' />
 <img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/a5c6c95a-a2f0-450d-b35f-f8e72c383b7b' />
 <img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/563ef5e1-7d33-42ce-8887-6f77731394fd' />
-
+<div></div><br>
+<div></div><br>
 
 Made by night.
 Credit to Tim Baker, David E. Gervais, and others.
-<div></div><br>
-<div></div><br>
