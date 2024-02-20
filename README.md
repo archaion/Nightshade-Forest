@@ -1,17 +1,20 @@
-<h2>NIGHTSHADE FOREST</h2>
-A Visual Overhaul Mod for AngbandTk
-<div></div><br>
-<div></div><br>
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/f7181cb9-49db-4bfc-a73d-6bb332bfe467' />
 
+<div></div><br>
+<h2>NIGHTSHADE FOREST - A Visual Overhaul Mod for AngbandTk</h2>
+
+<div></div><br>
 SETUP
 
 First install the Zapf Chancery font, then open the "Nightshade Forest" folder and run "angband.exe". The game options are preset for convenience, but can be changed in the Options menu. For gameplay instructions, see the Help menu.
 
 
+<div></div><br>
 ABOUT
 
 This mod introduces a custom HD isometric tileset, which is best viewed at lower resolutions (eg. 800 x 600). It also changes the names of various monsters and races to be more appropriate for the setting, makes all classes playable for every race, and reconfigures a few of the sound effects. See below for a full list of changes.
 
+<div></div><br>
 
 CHANGES 
 
@@ -26,6 +29,21 @@ CHANGES
 - More appropriate sound effects for townspeople
 - Ambient sound effects for dungeon areas
 
+<div></div><br>
+SCREENSHOTS
+<div></div><br>
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/d77c029c-3a0b-4354-bbee-5d542b6f6c72' />
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/41d25146-0e9a-47ad-808b-6d3f5b4c1a8f' />
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/8d11a4f3-f656-439f-ad9f-4d90ce45f66f' />
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/11308314-63ae-4560-b990-2af9400d2a27' />
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/c19644af-0dd5-4fa4-9713-071927bd5203' />
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/98a796d9-f4a1-413b-b068-0f6c4f4eefcb' />
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/17768472-ff91-47c5-b27c-bde01f475550' />
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/a5c6c95a-a2f0-450d-b35f-f8e72c383b7b' />
+<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/563ef5e1-7d33-42ce-8887-6f77731394fd' />
+
 
 Made by night.
 Credit to Tim Baker, David E. Gervais, and others.
+<div></div><br>
+<div></div><br>
