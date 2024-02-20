@@ -12,7 +12,7 @@ After extracting the "Nightshade Forest v1.0" zip file (and installing the Zapf 
 <div></div><br>
 ABOUT
 
-This mod introduces a custom HD isometric tileset, which is best viewed at lower resolutions (eg. 800 x 600). It also changes the names of various monsters and races to be more appropriate for the setting, makes all classes playable for every race, and reconfigures a few of the sound effects. See below for a full list of changes.
+Based on AngbandTk v2.9.2r3, this mod introduces a custom HD isometric tileset, which is best viewed at lower resolutions (eg. 800 x 600). It also changes the names of various monsters and races to be more appropriate for the setting, makes all classes playable for every race, and reconfigures a few of the sound effects. See below for a full list of changes.
 
 <div></div><br>
 
@@ -30,6 +30,10 @@ CHANGES
 - Ambient sound effects for dungeon areas
 
 <div></div><br>
+
+Credit to Tim Baker, David E. Gervais, and the Angband team. If you like this project, please consider donating Bitcoin to <b>1H8c4g6tZPhjzo8Xcx6p9ToGibmffUNkMF</b> or via Paypal at night@pointedulac.net.
+
+<div></div><br>
 SCREENSHOTS
 <div></div><br>
 <img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/d77c029c-3a0b-4354-bbee-5d542b6f6c72' />
@@ -41,8 +45,3 @@ SCREENSHOTS
 <img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/17768472-ff91-47c5-b27c-bde01f475550' />
 <img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/a5c6c95a-a2f0-450d-b35f-f8e72c383b7b' />
 <img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/563ef5e1-7d33-42ce-8887-6f77731394fd' />
-<div></div><br>
-<div></div><br>
-
-Made by night.
-Credit to Tim Baker, David E. Gervais, and others.
