@@ -5,10 +5,10 @@
 ABOUT
 <br>
 
-Based on AngbandTk v2.9.2r3, this mod introduces a completely revamped high-definition isometric tileset. It also changes the names of various monsters and races to be more appropriate for the setting, makes all classes playable for every race, and reconfigures a few of the sound effects. The game is optimized for viewing at 800 x 600 and most options are preset for convenience, but these settings can be changed in the Options menu or by adjusting them manually. For gameplay instructions, see the Help menu. 
+Based on the AngbandTK graphical roguelike, this mod introduces a completely revamped high-definition isometric tileset. It also changes the names of various monsters and races to be more appropriate for the setting, makes all classes playable for every race, and reconfigures a few of the sound effects. The game is optimized for viewing at 800 x 600 and most options are preset for convenience, but these settings can be changed in the Options menu or by adjusting them manually. For gameplay instructions, see the Help menu. 
 <br>
 
-Credit goes to Tim Baker for AngbandTK, David E. Gervais for the tileset, and the Angband team for inspiring this project. If you would like to support the continued development of Nightshade Forest, please consider donating Bitcoin to <b>1H8c4g6tZPhjzo8Xcx6p9ToGibmffUNkMF</b> or via Paypal at night@pointedulac.net.
+Credit goes to Tim Baker for AngbandTK, David E. Gervais for the tileset, and the Angband team for inspiring this project. If you would like to support the continued development of Nightshade Forest, please consider donating via Paypal at night@pointedulac.net or sending Bitcoin to <b>1H8c4g6tZPhjzo8Xcx6p9ToGibmffUNkMF</b>.
 
 <div></div><br>
 
@@ -31,7 +31,7 @@ CHANGES
 SETUP
 <br>
 
-After extracting the "Nightshade Forest v1.0" zip file (and installing the Zapf Chancery font if desired), just open the "Nightshade Forest" folder and run "angband.exe".
+After extracting the "Nightshade Forest v1.0" zip file (and installing the Zapf Chancery font if desired), just open the "Nightshade Forest" folder, run "angband.exe" and follow the prompts.
 
 
 <div></div><br>
