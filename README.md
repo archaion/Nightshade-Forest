@@ -46,4 +46,4 @@ SCREENSHOTS
 <img width=800 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/98a796d9-f4a1-413b-b068-0f6c4f4eefcb' />
 <img width=800 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/17768472-ff91-47c5-b27c-bde01f475550' />
 <img width=800 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/a5c6c95a-a2f0-450d-b35f-f8e72c383b7b' />
-<img width=900 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/563ef5e1-7d33-42ce-8887-6f77731394fd' />
+<img width=800 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/563ef5e1-7d33-42ce-8887-6f77731394fd' />
