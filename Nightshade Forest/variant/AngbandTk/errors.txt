@@ -1,0 +1,18 @@
+***** AngbandTk 2.9.2r3
+bad geometry specifier "1x1+--792+500"
+    while executing
+"wm geometry $win ${width}x$height$xs$x$ys$y"
+    (procedure "HardcodeGeometry" line 125)
+    invoked from within
+"HardcodeGeometry"
+    (procedure "NSMainWindow::MenuInvoke" line 165)
+    invoked from within
+"NSMainWindow::MenuInvoke 6 33 E_WINDOW_DEFPOS"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel #0 $command $oop [list $ident]"
+    (procedure "NSMenu::MenuInvoke" line 30)
+    invoked from within
+"NSMenu::MenuInvoke 33 E_WINDOW_DEFPOS"
+    (menu invoke)
+

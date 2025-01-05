@@ -1,0 +1,99 @@
+Dunadan Druid
+Dunadan Illusionist
+Dunadan Mage
+Dunadan Paladin
+Dunadan Priest
+Dunadan Ranger
+Dunadan Rogue
+Dunadan Warrior
+
+Northman Druid
+Northman Illusionist
+Northman Mage
+Northman Paladin
+Northman Priest
+Northman Ranger
+Northman Rogue
+Northman Warrior
+
+Dark-Elf Druid
+Dark-Elf Illusionist
+Dark-Elf Mage
+Dark-Elf Paladin
+Dark-Elf Priest
+Dark-Elf Ranger
+Dark-Elf Rogue
+Dark-Elf Warrior
+
+Wose Druid
+Wose Illusionist
+Wose Mage
+Wose Paladin
+Wose Priest
+Wose Ranger
+Wose Rogue
+Wose Warrior
+
+Half-Elf Druid
+Half-Elf Illusionist
+Half-Elf Mage
+Half-Elf Paladin
+Half-Elf Priest
+Half-Elf Ranger
+Half-Elf Rogue
+Half-Elf Warrior
+
+Dwarf Druid
+Dwarf Illusionist
+Dwarf Mage
+Dwarf Paladin
+Dwarf Priest
+Dwarf Ranger
+Dwarf Rogue
+Dwarf Warrior
+
+Southron Druid
+Southron Illusionist
+Southron Mage
+Southron Paladin
+Southron Priest
+Southron Ranger
+Southron Rogue
+Southron Warrior
+
+Easterling Druid
+Easterling Illusionist
+Easterling Mage
+Easterling Paladin
+Easterling Priest
+Easterling Ranger
+Easterling Rogue
+Easterling Warrior
+
+Hobbit Druid
+Hobbit Illusionist
+Hobbit Mage
+Hobbit Paladin
+Hobbit Priest
+Hobbit Ranger
+Hobbit Rogue
+Hobbit Warrior
+
+Light-Elf Druid
+Light-Elf Illusionist
+Light-Elf Mage
+Light-Elf Paladin
+Light-Elf Priest
+Light-Elf Ranger
+Light-Elf Rogue
+Light-Elf Warrior
+
+Kobold Druid
+Kobold Illusionist
+Kobold Mage
+Kobold Paladin
+Kobold Priest
+Kobold Ranger
+Kobold Rogue
+Kobold Warrior
+

@@ -1,0 +1,21 @@
+# Automatically generated. Do not edit.
+
+assign 514x431+81+104
+book 478x312+0+98
+borg 419x343+87+103
+character 584x427+80+95
+choice 311x23+251+-10
+controls 539x427+80+103
+font 400x460+131+73
+inventory2 469x350+80+95
+knowledge 564x427+79+95
+main 802x557+-9+-9
+messages 584x427+79+95
+micromap 77x57+-8+486
+misc 77x389+-2+80
+options 438x427+79+95
+prf 758x341+20+102
+recall 231x45+562+-10
+sound 577x419+78+102
+store2 535x349+87+103
+tip 336x254+232+115
