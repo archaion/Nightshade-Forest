@@ -40,8 +40,8 @@ SCREENSHOTS
 <img width=800 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/f7181cb9-49db-4bfc-a73d-6bb332bfe467' />
 <img width=800 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/d77c029c-3a0b-4354-bbee-5d542b6f6c72' />
 <img width="800" alt="Mountains" src="https://github.com/user-attachments/assets/9ae879f5-96d8-4b88-b8c9-e662c8d5adad" />
-<img width="800" alt="Hills" src="https://github.com/user-attachments/assets/c7cad2d4-c07d-4a25-a165-a971222667eb" />
-<img width="800" alt="Outpost" src="https://github.com/user-attachments/assets/2c358a7f-4372-47d9-9f2d-7432b1a9399f" />
+<img width="800" alt="Foothills" src="https://github.com/user-attachments/assets/c8ec9f61-6c59-44ba-bfc6-7b60d3d28e1c" />
+<img width="800" alt="Outpost" src="https://github.com/user-attachments/assets/f776edce-3545-44be-b89e-0a267c345bf6" />
 <img width=800 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/c19644af-0dd5-4fa4-9713-071927bd5203' />
 <img width="800" alt="Castle" src="https://github.com/user-attachments/assets/cc1f99f5-cec3-427d-bced-ecd4e1d03cf7" />
 <img width=800 src='https://github.com/archaion/Nightshade-Forest/assets/80986857/17768472-ff91-47c5-b27c-bde01f475550' />
