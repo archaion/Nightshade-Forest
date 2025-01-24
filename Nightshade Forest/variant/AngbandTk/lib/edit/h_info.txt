@@ -168,7 +168,7 @@ N:19:20:100:25
 D:Your parents were Easterlings, but you were raised by the Dunedain.  
 
 N:20:2:100:50
-D:You are the adopted child of a  
+D:You are the adopted child 
 
 N:22:23:30:20
 D:Your parentage is unknown.  You are the adopted child of a Southron 
